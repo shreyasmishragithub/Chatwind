@@ -1,8 +1,8 @@
 {
   "name": "chatwind",
-    "engines" : { 
-    "npm" : ">=7.0.0",
-    "node" : ">=16.0.0"
+    "engines": {
+    "node": "16.16.0",
+    "npm": "8.11.0"
   },
   "version": "0.1.0",
   "private": true,
